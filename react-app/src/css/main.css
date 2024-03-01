@@ -1,0 +1,32 @@
+.main  {
+    margin-left: 10px;
+}
+
+.main input {
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+#add {
+    margin-top: 10px;
+    height: 34px;
+    width: 270px;
+}
+
+#add:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}
+
+#modalButton {
+    text-align: center;
+    height: 24px;
+    width: 180px;
+}
+
+#modalButton:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

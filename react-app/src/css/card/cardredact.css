@@ -1,0 +1,35 @@
+.cardredact {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.cardredact #title {
+    font-size: 22px;
+}
+
+.cardredact input {
+    height: 18px;
+    width: 180px;
+}
+
+.cardredact textarea {
+    margin-top: 10px;
+    height: 50px;
+    width: 180px;
+}
+
+.cardadd #error {
+    color: red;
+}
+
+.cardredact button {
+    height: 40px;
+    width: 180px;
+}
+
+.cardredact button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.workspace {
+    border: 2px solid rgb(0, 0, 0);
+    width: 400px;
+    background-color: #c2bcbc;
+    margin-top: 2px;
+}
+
+.workspace #title {
+    font-size: 22px;
+}
+
+.workspace #warning {
+    font-size: 16px;
+}
+
+.workspace #desc {
+    font-size: 16px;
+}
+
+.workspace button {
+    height: 24px;
+    width: 170px;
+    margin-top: 10px;
+}
+
+.workspace button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

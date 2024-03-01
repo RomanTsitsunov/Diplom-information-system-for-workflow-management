@@ -1,0 +1,81 @@
+.currentkanban > .list {
+    display: flex;
+}
+
+.currentkanban > .list:hover {
+    background-color: 'skyblue';
+}
+
+.currentkanban #header {
+    display: flex;
+    border-bottom: 2px solid #000000;
+    background-color: #000000;
+}
+
+.currentkanban #kanbanInfo {
+    margin-left: 10px;
+    color: white;
+}
+
+.currentkanban #spisok {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.currentkanban #mark {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.currentkanban #filter {
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.currentkanban #sort > #sort {
+    height: 36px;
+    margin-left: 15px;
+    margin-top: 19px;
+}
+
+.currentkanban #userInfo {
+    margin-left: 15px;
+    color: white;
+}
+
+.currentkanban #login {
+    font-size: 22px;
+}
+
+.currentkanban #email {
+    font-size: 16px;
+}
+
+.currentkanban #sortUser > #sortUser {
+    margin-left: 15px;
+    margin-top: 19px;
+    height: 36px;
+    width: 240px;
+}
+
+.currentkanban #title {
+    font-size: 22px;
+    /* margin-left: 10px; */
+}
+
+.currentkanban #desc {
+    font-size: 16px;
+    /* margin-left: 10px; */
+}
+
+.currentkanban > button {
+    height: 24px;
+    width: 170px;
+    margin-left: 10px;
+}
+
+.currentkanban button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

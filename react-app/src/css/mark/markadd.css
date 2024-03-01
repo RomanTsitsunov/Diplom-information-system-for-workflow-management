@@ -1,0 +1,25 @@
+.markadd {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.markadd #title {
+    font-size: 22px;
+}
+
+.markadd input {
+    height: 18px;
+    width: 180px;
+}
+
+.markadd button {
+    height: 40px;
+    width: 180px;
+}
+
+.markadd button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.login {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.login span {
+    font-size: 22px;
+}
+
+.login input {
+    height: 18px;
+}
+
+.login button {
+    height: 24px;
+    width: 170px;
+}
+
+.login button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

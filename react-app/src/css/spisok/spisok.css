@@ -1,0 +1,55 @@
+/* .spisok div {
+    float: left;
+} */
+.spisok {
+    border: 2px solid rgb(182, 175, 175);
+    width: 340px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.spisok:hover {
+    /* transition-duration: 0.3s;
+    background-color: 'skyblue';
+    transform: scale(1.03);
+    box-shadow: #838383 1px 1px 25px 5px; */
+}
+
+.spisok > #title {
+    
+    font-size: 22px;
+    margin-left: 10px;
+    font-weight: 500;
+}
+
+.spisok #sort {
+    font-size: 12px;
+    margin-left: 50px;
+    height: 36px;
+    width: 170px;
+}
+
+.spisok > #warning {
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.spisok > #desc {
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.spisok > button {
+    height: 24px;
+    width: 170px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.spisok button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

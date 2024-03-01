@@ -1,0 +1,31 @@
+.kanbanredact {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.kanbanredact #title {
+    font-size: 22px;
+}
+
+.kanbanredact input {
+    height: 18px;
+    width: 180px;
+}
+
+.kanbanredact textarea {
+    margin-top: 10px;
+    height: 50px;
+    width: 180px;
+}
+
+.kanbanredact button {
+    height: 40px;
+    width: 180px;
+}
+
+.kanbanredact button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

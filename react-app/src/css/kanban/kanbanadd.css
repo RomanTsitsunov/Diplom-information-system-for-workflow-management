@@ -1,0 +1,31 @@
+.kanbanadd {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.kanbanadd #title {
+    font-size: 22px;
+}
+
+.kanbanadd input {
+    height: 18px;
+    width: 180px;
+}
+
+.kanbanadd textarea {
+    margin-top: 10px;
+    height: 50px;
+    width: 180px;
+}
+
+.kanbanadd button {
+    height: 40px;
+    width: 180px;
+}
+
+.kanbanadd button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

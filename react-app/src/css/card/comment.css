@@ -1,0 +1,22 @@
+.comment {
+    text-align: left;
+    border: 2px solid #b3adad;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.comment #text {
+    word-wrap: break-word;
+}
+
+.comment button {
+    height: 22px;
+    width: 120px;
+}
+
+.comment button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}

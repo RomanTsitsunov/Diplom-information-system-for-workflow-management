@@ -1,0 +1,25 @@
+.markredact {
+    text-align: center;
+    padding-top: 10%;
+    line-height: 30px;
+}
+
+.markredact #title {
+    font-size: 22px;
+}
+
+.markredact input {
+    height: 18px;
+    width: 180px;
+}
+
+.markredact button {
+    height: 40px;
+    width: 180px;
+}
+
+.markredact button:hover {
+    color: #fff;
+    background-color: #333;
+    cursor: pointer;
+}
